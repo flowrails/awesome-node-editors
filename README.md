@@ -46,17 +46,18 @@ Toy experiment of a text editing node graph in Rust
 
 ![mango-screenshot](https://user-images.githubusercontent.com/381432/212524113-46f050c0-a31e-4bb7-83e7-544f27683108.png)
 
-# C++
-
-## [beyse / ExecutionNodes](https://github.com/beyse/ExecutionNodes)
-
-
 
 # Python
 
+## [Nodezator](https://github.com/IndiePython/nodezator)
+a multi-purpose visual node editor for the Python programming language
+
+![68747470733a2f2f6e6f64657a61746f722e636f6d2f696d616765732f73637265656e73686f742e706e67](https://user-images.githubusercontent.com/381432/212528117-21375e43-8d35-4a1b-a4cb-bcce08e94755.png)
+
 ## [beyse/NodeEditor](https://github.com/beyse/NodeEditor)
-
-
+A multi purpose node editor for flow-based programming. 
+![screenshot-image-processing](https://user-images.githubusercontent.com/381432/212527866-f8393813-e4ba-4b5d-9fc8-2b6c16605f36.png)
+Technology: Qt
 
 ## [Ryven](https://github.com/leon-thomm/Ryven)
 A simple visual node editor for Python. Front-end in Qt
@@ -68,6 +69,11 @@ A simple generic Node Editor written with python and Panda3D
 
 ![NodeEditor1](https://user-images.githubusercontent.com/381432/212525125-d22325d1-0502-4d8a-a8e1-a65871993bf0.png)
 Graphics: Panda3D, License: BSD-2, Last Release: May, 2022
+
+# [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio/)
+Non-destructive, node-based 2D graphics editor, focused on simplicity, speed, elegance, and usability
+
+![gimel-studio-06-pre-3](https://user-images.githubusercontent.com/381432/212528192-8aef4fd2-5046-4578-9edb-76d53f80e83b.png)
 
 
 # Web Front End
