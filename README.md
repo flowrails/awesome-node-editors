@@ -41,3 +41,17 @@ Toy experiment of a text editing node graph in Rust
 
 ![mango-screenshot](https://user-images.githubusercontent.com/381432/212524113-46f050c0-a31e-4bb7-83e7-544f27683108.png)
 
+# Web Front End
+
+## [Flume](https://github.com/chrisjpatty/flume)
+A React-powered node editor and runtime engine
+
+<img width="1062" alt="image" src="https://user-images.githubusercontent.com/381432/212524956-0ff9b206-c5da-4916-b8d4-7d03a2ab0164.png">
+
+License: MIT, Technology: React (HTML/JS/CSS), Last Activity: April 2022
+
+# [flowfunc](https://github.com/idling-mind/flowfunc)
+A web-based node editor component for plotly dash 
+
+![animation](https://user-images.githubusercontent.com/381432/212525058-b4cb3125-2622-4e68-9b4c-75faffb25f3f.gif)
+License: [NONE](https://github.com/idling-mind/flowfunc/blob/master/LICENSE)?
