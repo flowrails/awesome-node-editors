@@ -46,7 +46,17 @@ Toy experiment of a text editing node graph in Rust
 
 ![mango-screenshot](https://user-images.githubusercontent.com/381432/212524113-46f050c0-a31e-4bb7-83e7-544f27683108.png)
 
+# C++
+
+## [beyse / ExecutionNodes](https://github.com/beyse/ExecutionNodes)
+
+
+
 # Python
+
+## [beyse/NodeEditor](https://github.com/beyse/NodeEditor)
+
+
 
 ## [Ryven](https://github.com/leon-thomm/Ryven)
 A simple visual node editor for Python. Front-end in Qt
