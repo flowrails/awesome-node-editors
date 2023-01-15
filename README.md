@@ -1,4 +1,4 @@
-# Awesome Node Graph Editors
+# Awesome Node Editors
 A list of awesome node graph editors.
 
 ## Rust Implementations
