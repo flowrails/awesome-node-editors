@@ -70,10 +70,15 @@ A simple generic Node Editor written with python and Panda3D
 ![NodeEditor1](https://user-images.githubusercontent.com/381432/212525125-d22325d1-0502-4d8a-a8e1-a65871993bf0.png)
 Graphics: Panda3D, License: BSD-2, Last Release: May, 2022
 
-# [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio/)
+## [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio/)
 Non-destructive, node-based 2D graphics editor, focused on simplicity, speed, elegance, and usability
 
 ![gimel-studio-06-pre-3](https://user-images.githubusercontent.com/381432/212528192-8aef4fd2-5046-4578-9edb-76d53f80e83b.png)
+
+## [Floppy](https://github.com/JLuebben/Floppy)
+Flowchart Python -- A multipurpose Python node editor.
+
+![img](https://user-images.githubusercontent.com/381432/212528266-572ce3ce-f68e-4635-a40f-85976d4de67f.png)
 
 
 # Web Front End
