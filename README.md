@@ -1,6 +1,11 @@
 # Awesome Node Editors
 A list of awesome node graph editors.
 
+## Other Great Resources:
+- [github.com/topics/flow-based-programming](https://github.com/topics/flow-based-programming) - many, many, projects
+- [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming and [varsious VPL implementations](https://github.com/ivanreese/visual-programming-codex/blob/main/implementations.md).
+- [Flow-Based Programming](https://github.com/flowbased) - Collective mind for FBP standards. Publishes the [FPB Protocol](https://flowbased.github.io/fbp-protocol/).
+
 ## Rust Implementations
 The following are rust-based editors. Some use web technologies (like [yew.rs](https://yew.rs/)) for the front end.
 
@@ -41,17 +46,58 @@ Toy experiment of a text editing node graph in Rust
 
 ![mango-screenshot](https://user-images.githubusercontent.com/381432/212524113-46f050c0-a31e-4bb7-83e7-544f27683108.png)
 
+# Python
+
+## [Ryven](https://github.com/leon-thomm/Ryven)
+A simple visual node editor for Python. Front-end in Qt
+
+![themes_with_logo](https://user-images.githubusercontent.com/381432/212525952-2b5ec046-1588-4347-b908-b7fd990b1327.png)
+
+## [fireclawthefox / NodeEditor](https://github.com/fireclawthefox/NodeEditor)
+A simple generic Node Editor written with python and Panda3D
+
+![NodeEditor1](https://user-images.githubusercontent.com/381432/212525125-d22325d1-0502-4d8a-a8e1-a65871993bf0.png)
+Graphics: Panda3D, License: BSD-2, Last Release: May, 2022
+
+
 # Web Front End
+
+## [rodydavis/lit-node-editor](https://github.com/rodydavis/lit-node-editor)
+Node editor built with canvas api, simple graph data structure and included transforms for scale, pan and move. 
+
+<img width="1153" alt="image" src="https://user-images.githubusercontent.com/381432/212526621-d4a7b640-c22a-4932-8454-76d788da93df.png">
+Technology: [Lit](https://github.com/lit/lit/) (Reactive JS Framework)
 
 ## [Flume](https://github.com/chrisjpatty/flume)
 A React-powered node editor and runtime engine
 
 <img width="1062" alt="image" src="https://user-images.githubusercontent.com/381432/212524956-0ff9b206-c5da-4916-b8d4-7d03a2ab0164.png">
-
 License: MIT, Technology: React (HTML/JS/CSS), Last Activity: April 2022
 
-# [flowfunc](https://github.com/idling-mind/flowfunc)
+## [lochbrunner/react-flow-editor](https://github.com/lochbrunner/react-flow-editor)
+React component which enables creating flow editors with ease
+
+![screen](https://user-images.githubusercontent.com/381432/212527369-91ae794e-9590-497e-87aa-c7cb15630bb2.gif)
+
+## [flowfunc](https://github.com/idling-mind/flowfunc)
 A web-based node editor component for plotly dash 
 
 ![animation](https://user-images.githubusercontent.com/381432/212525058-b4cb3125-2622-4e68-9b4c-75faffb25f3f.gif)
 License: [NONE](https://github.com/idling-mind/flowfunc/blob/master/LICENSE)?
+
+## [newcat / baklavajs](https://github.com/newcat/baklavajs)
+Graph / node editor in the browser using VueJS
+
+![aa663400-a2e4-11eb-82b8-f2c1d01dac22](https://user-images.githubusercontent.com/381432/212527499-1881397f-ec4e-4621-be5f-cfd47665c40f.png)
+Technology: VueJS
+
+## [jerosoler / Drawflow](https://github.com/jerosoler/Drawflow)
+Simple flow library 🖥️🖱️
+
+![5691f700-d8dd-11ea-8543-d9e965afa771](https://user-images.githubusercontent.com/381432/212527538-3bf903a7-2c55-411f-ba01-acbc4d8cd837.png)
+Technology: JS (Vanilla javascript)
+
+
+# Platforms
+- [NoFlo](https://noflojs.org/) - Flow-Based Programming for JavaScript
+- [FloHub]() https://www.flowhub.io/, https://app.flowhub.io/
