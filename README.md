@@ -118,6 +118,11 @@ Simple flow library 🖥️🖱️
 ![5691f700-d8dd-11ea-8543-d9e965afa771](https://user-images.githubusercontent.com/381432/212527538-3bf903a7-2c55-411f-ba01-acbc4d8cd837.png)
 Technology: JS (Vanilla javascript)
 
+###Dear imgui
+
+## [imguinodeeditor](https://github.com/thedmd/imgui-node-editor#node-editor-in-imgui)
+Fairly featureful node editor, useful as a basis for more complex ideas
+![animation](https://user-images.githubusercontent.com/1197433/89328475-c01bc680-d68d-11ea-88bf-8c4155480927.gif)
 
 # Platforms
 - [NoFlo](https://noflojs.org/) - Flow-Based Programming for JavaScript
