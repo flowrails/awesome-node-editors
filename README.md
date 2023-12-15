@@ -80,6 +80,11 @@ Flowchart Python -- A multipurpose Python node editor.
 
 ![img](https://user-images.githubusercontent.com/381432/212528266-572ce3ce-f68e-4635-a40f-85976d4de67f.png)
 
+## [FloJoy](https://www.flojoy.ai/)
+Flojoy is a free, modern Desktop app for drag-&-drop test & measure automation. Tasks that are commonly performed in MATLAB, Alteryx, LabVIEW, Keysight PathWave, or ad-hoc Python scripts can be easily recreated for free in Flojoy.
+
+![258609612-6e9b66b4-5aee-4655-8989-bc2aa9817908](https://github.com/flowrails/awesome-node-editors/assets/381432/bb84159e-bfb3-463d-b5a9-99755fdef39f)
+
 
 # Web Front End
 
