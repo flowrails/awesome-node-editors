@@ -131,4 +131,5 @@ Fairly featureful node editor, useful as a basis for more complex ideas
 
 # Platforms
 - [NoFlo](https://noflojs.org/) - Flow-Based Programming for JavaScript
-- [FloHub]() https://www.flowhub.io/, https://app.flowhub.io/
+- FloHub - https://www.flowhub.io/, https://app.flowhub.io/
+- [FloJoy](https://www.flojoy.ai/) - Joyful visual programming in Python
